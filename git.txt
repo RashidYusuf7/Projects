@@ -1,3 +1,7 @@
 Through git you access and modify files using command of git. I learned to execute this program so that i will be able to run a series of commands.All changes can be made through the github repo. Git is a program you can use through mac or windows, as i am currently running through windows.Using git you can moniter files by tracking them simply using commands in gitbash. My team is capable to moniter or modify files by me on github without distrupting the source code. I have learned that by typing touch i can create a new file on gitbash. By typing echo i have the ability to directly type into my txt files and further reviewing them physically.
 Mach 1
+differences
 some text here
+
+Git can be used to invide collaborators through github. Therefore a collaborator would be able to make changes to the repository,=.
+ main
